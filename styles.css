@@ -1,0 +1,29 @@
+.navbar-text{
+    height: 35px;
+    width: 2em;
+}
+
+.carousel-inner {
+    max-height: 60em;
+    width: auto;
+}
+.background-image {
+    background-image: url("mah.jpg");
+    
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 500px;
+    color: white;
+}
+.yo{
+    font-family: 'Montserrat', sans-serif;
+
+}
+.textcentral{
+    font-family: 'Raleway', sans-serif;
+}
+.card-deck{
+    margin: 20px;
+}
